@@ -1,42 +1,73 @@
-# 📊 Power BI Sales Dashboard – SAMEER MALIK
+# 📊 Superstore Sales Dashboard – SAMEER MALIK
 
-This project is a comprehensive **Sales Dashboard** created using **Power BI Desktop** to visualize and analyze sales data effectively. It is designed to help businesses monitor performance, make data-driven decisions, and track key metrics.
+This project showcases an interactive and visually engaging **Power BI dashboard** built for analyzing Superstore sales data. It is designed to help businesses track key performance metrics, uncover insights, and support data-driven decision-making through dynamic visuals and slicers.
 
-## 🧠 Project Objectives
+## 🎯 Objectives
 
-- Visualize sales trends over time
-- Track performance using KPIs
-- Provide interactive filtering using slicers
-- Identify high and low-performing areas
-- Present actionable insights with an intuitive interface
+- Track sales and profit metrics over time
+- Visualize performance by region, category, sub-category, and city
+- Compare actual sales/profit to targets
+- Filter insights by customer segment and ship date
+- Provide business-ready insights using clean, interactive visuals
 
-## 📈 Key Features
+## 📊 Key Features
 
-- **Line Chart** – Tracks sales trends over time (Order Date)
-- **KPI Cards** – Showcases Total Sales, Total Profit, Profit Margin, and Total Quantity
-- **Bar Chart** – Highlights discount patterns and item performance
-- **Scatter Chart** – Shows relationships between variables like profit and sales
-- **Map Visualization** – Displays geographical sales distribution
-- **Funnel Chart** – Illustrates sales conversion or order stages
-- **Interactive Slicers** – Filters by Category, Region, and Date
-- **Goal Target Measure** – A custom measure used in KPI for Total Profit vs Target
+- **KPI Cards**: Total Sales, Total Profit, Average Sales, Average Profit
+- **Sales by Region**: Interactive pie chart
+- **Profit by City and State**: Bar charts for comparison
+- **Sales Trend Over Time**: Line chart for time series analysis
+- **Sales by Sub-Category**: Horizontal bar chart
+- **Quantity by Category**: Donut chart
+- **Segment Slicer**: Filter by Consumer, Corporate, Home Office
+- **Ship Date Slicer**: For time-based analysis
+- **Target Measures**: Visual KPIs comparing actuals vs goals
 
+## 🖼️ Dashboard Screenshot
+
+📷 [View Dashboard Screenshot](https://drive.google.com/file/d/196AbZNEEhTfA7OZN9mL2IPGpfluIzAj5/view?usp=sharing)
+
+## 🎨 Background Image
+
+A clean and professional background image is used to enhance the visual experience.  
+🎨 [View Background Image](https://drive.google.com/file/d/1-vZMl-OmrXQYyJorhg7BaQsw8iCztsxg/view?usp=drive_link)
+
+## 📊 Data Source
+
+The dashboard is built using sample Superstore sales data in Excel format.  
+📄 [View/Download Excel Data](https://docs.google.com/spreadsheets/d/144M_kRn_2-zgB-U3gyieCRCT-fVWtUTY/edit?usp=sharing&ouid=104303118614351627704&rtpof=true&sd=true)
+
+## 📁 Files Included
+
+- `SAMEER MALIK.pbix` – Power BI project file
+- Excel data source (linked via Google Sheets)
+- Dashboard screenshot (linked via Google Drive)
+- Background image (linked via Google Drive)
 
 ## 🛠 Tools & Technologies
 
-- Microsoft Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query (Data transformation)
+- **Power BI Desktop**
+- **DAX** (for calculated KPIs and goals)
+- **Power Query** (for data cleaning and transformation)
+- **Excel** (as data source)
 
 ## 🚀 How to Use
 
-1. Open `SAMEER MALIK.pbix` in Power BI Desktop
-2. Review and interact with the dashboard using slicers and filters
-3. Explore insights from various charts and KPIs
+1. Download the `.pbix` file and open it in Power BI Desktop
+2. Ensure the Excel data is available locally or update the data source path
+3. Interact with slicers and visuals to explore insights
+4. Use or customize for business presentations or analysis
 
-## 📌 Insights & Impact
+## 📌 Business Value
 
-This dashboard provides a clear and interactive way to:
-- Monitor sales performance
-- Detect key trends and outliers
-- Make quick business decisions with real-time data representation
+This dashboard provides:
+- Clear performance tracking across key dimensions
+- Quick identification of trends and anomalies
+- Smart comparisons of goals vs actuals
+- An easy interface for decision-makers and analysts
+
+---
+
+🔗 **Created by Sameer Malik**  
+📧 For collaboration, questions, or feedback, feel free to connect:
+
+➡️ [LinkedIn – Sameer Malik](https://www.linkedin.com/in/sameer-malik-b5b8772b9/)
