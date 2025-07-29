@@ -1,73 +1,21 @@
-# 📊 Superstore Sales Dashboard – SAMEER MALIK
+# 💫 About Me:
+👋 Hey, I'm Sameer Malik<br>🚀 Aspiring Data Scientist & Cloud Explorer | 💻 BCA Student @ Amity University, Lucknow (2025)<br>🔬 Passionate about solving real-world problems with machine learning, data analysis, and cloud technologies<br><br>💼 Experience<br>🧠 Machine Learning Intern – CodSoft (May 2024 – Jun 2024)<br><br>🎬 Built a Movie Genre Classifier using TF-IDF & Logistic Regression<br><br>🔐 Developed a Fraud Detection Model with classification algorithms & EDA<br><br>📉 Created a Customer Churn Predictor using logistic regression on financial behavior<br><br>📬 Designed a Spam SMS Classifier using NLP & Naive Bayes techniques<br><br>🌐 Web Developer Intern – Meta Craft Lab (Jun 2024 – Jul 2024)<br><br>📝 Built a Svelte Note-Taking App using IndexedDB for persistent local storage<br><br>🔁 Developed a Flowchart Builder with drag-and-drop, export, and customization<br><br>📸 Created an Instagram Clone using SQLite and an HTML5 canvas photo filter<br><br>🔧 Handled GitHub project management, version control, and team workflows<br><br>☁️ Google Cloud Arcade 2k24 – Participant (Jul 2024 – Sep 2024)<br><br>📦 Worked with Cloud Storage, Compute Engine, BigQuery, and Document AI<br><br>🛡️ Hands-on with Chrome Enterprise Security, Terraform, and Cloud Monitoring<br><br>🤖 Completed labs on AI integrations, DevOps workflows, and cloud APIs<br><br>✅ Strengthened cloud proficiency through 10 weeks of applied cloud projects<br><br>📊 Projects I’m Proud Of<br>🛡️ Fraud Detection – Identified suspicious patterns with classification algorithms<br><br>📉 Churn Prediction – Forecasted customer exits with logistic regression<br><br>📨 Spam Detector – Filtered SMS spam using NLP & Naive Bayes<br><br>🎞️ Movie Genre Prediction – Used metadata with TF-IDF to predict genres<br><br>🧠 Medical Image Segmentation – Evaluated Threshold, Watershed & Region Growing<br><br>🎥 Video Segmentation – Compared CNNs, FCNs & Transformers for real-time analysis<br><br>📈 Superstore Power BI Dashboard – Interactive KPIs & dynamic reports<br><br>🧰 Tech Stack<br>Languages: Python 🐍 | SQL 🧾 | Svelte ⚡<br>Libraries: Pandas, NumPy, Scikit-learn, Matplotlib<br>Tools: Power BI, MySQL, Excel, CANVA<br>Platforms: Google Cloud ☁️ | GitHub 🐙 | Jupyter 📓 | VS Code<br>Soft Skills: 📊 Analytical Thinking | 🧩 Problem Solving | 🤝 Collaboration<br><br>🏆 Achievements<br>🏅 Google Cloud Arcade 2k24 Graduate – Cloud solutions, AI, and DevOps labs<br><br>💼 CodSoft ML Intern – Delivered impactful ML models and analytics<br><br>💻 Meta Craft Lab Intern – Built full-stack projects and led GitHub collaboration<br><br>🧠 Goldman Sachs – Completed Software Engineering Virtual Internship<br><br>🤖 Cognizant AI Simulation – AI job simulation & workflow mastery<br><br>🌐 Cisco Certified – "Get Connected" foundational network certification<br><br>📬 Let’s Connect<br>🔗 LinkedIn<br>📂 GitHub<br>📧 sameermalik1419@gmail.com<br><br>
 
-This project showcases an interactive and visually engaging **Power BI dashboard** built for analyzing Superstore sales data. It is designed to help businesses track key performance metrics, uncover insights, and support data-driven decision-making through dynamic visuals and slicers.
 
-## 🎯 Objectives
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameer-malik-b5b8772b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameermalik1419@gmail.com) 
 
-- Track sales and profit metrics over time
-- Visualize performance by region, category, sub-category, and city
-- Compare actual sales/profit to targets
-- Filter insights by customer segment and ship date
-- Provide business-ready insights using clean, interactive visuals
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrflint5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrflint5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrflint5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 Key Features
-
-- **KPI Cards**: Total Sales, Total Profit, Average Sales, Average Profit
-- **Sales by Region**: Interactive pie chart
-- **Profit by City and State**: Bar charts for comparison
-- **Sales Trend Over Time**: Line chart for time series analysis
-- **Sales by Sub-Category**: Horizontal bar chart
-- **Quantity by Category**: Donut chart
-- **Segment Slicer**: Filter by Consumer, Corporate, Home Office
-- **Ship Date Slicer**: For time-based analysis
-- **Target Measures**: Visual KPIs comparing actuals vs goals
-
-## 🖼️ Dashboard Screenshot
-
-📷 [View Dashboard Screenshot](https://drive.google.com/file/d/196AbZNEEhTfA7OZN9mL2IPGpfluIzAj5/view?usp=sharing)
-
-## 🎨 Background Image
-
-A clean and professional background image is used to enhance the visual experience.  
-🎨 [View Background Image](https://drive.google.com/file/d/1-vZMl-OmrXQYyJorhg7BaQsw8iCztsxg/view?usp=drive_link)
-
-## 📊 Data Source
-
-The dashboard is built using sample Superstore sales data in Excel format.  
-📄 [View/Download Excel Data](https://docs.google.com/spreadsheets/d/144M_kRn_2-zgB-U3gyieCRCT-fVWtUTY/edit?usp=sharing&ouid=104303118614351627704&rtpof=true&sd=true)
-
-## 📁 Files Included
-
-- `SAMEER MALIK.pbix` – Power BI project file
-- Excel data source (linked via Google Sheets)
-- Dashboard screenshot (linked via Google Drive)
-- Background image (linked via Google Drive)
-
-## 🛠 Tools & Technologies
-
-- **Power BI Desktop**
-- **DAX** (for calculated KPIs and goals)
-- **Power Query** (for data cleaning and transformation)
-- **Excel** (as data source)
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file and open it in Power BI Desktop
-2. Ensure the Excel data is available locally or update the data source path
-3. Interact with slicers and visuals to explore insights
-4. Use or customize for business presentations or analysis
-
-## 📌 Business Value
-
-This dashboard provides:
-- Clear performance tracking across key dimensions
-- Quick identification of trends and anomalies
-- Smart comparisons of goals vs actuals
-- An easy interface for decision-makers and analysts
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mrflint5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mrflint5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔗 **Created by Sameer Malik**  
-📧 For collaboration, questions, or feedback, feel free to connect:
-
-➡️ [LinkedIn – Sameer Malik](https://www.linkedin.com/in/sameer-malik-b5b8772b9/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
