@@ -45,10 +45,10 @@ The dashboard is built using sample Superstore sales data in Excel format.
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop**
-- **DAX** (for calculated KPIs and goals)
-- **Power Query** (for data cleaning and transformation)
-- **Excel** (as data source)
+- **Power BI Desktop** 🧩
+- **DAX** – For calculated KPIs and goals
+- **Power Query** – For data cleaning and transformation
+- **Excel** – As the primary data source
 
 ## 🚀 How to Use
 
@@ -68,4 +68,5 @@ This dashboard provides:
 ---
 
 🔗 **Created by Sameer Malik**  
-For collaboration, questions, or feedback, feel free to connect!
+📧 sameermalik1419@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/sameer-malik-b5b8772b9)
